@@ -1,0 +1,2 @@
+* text=auto
+data/els_02_12_byf3pststu_v1_0.csv filter=lfs diff=lfs merge=lfs -text
